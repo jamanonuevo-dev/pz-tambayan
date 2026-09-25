@@ -1,0 +1,9 @@
+{
+  "$schema": "https://json.schemastore.org/wrangler.json",
+  "name": "pz-tambayan",
+  "compatibility_date": "2026-09-25",
+  "assets": {
+    "directory": ".",
+    "not_found_handling": "single-page-application"
+  }
+}
